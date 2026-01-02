@@ -1,6 +1,5 @@
 import { CryptoCard } from "@/components/CryptoCard";
 import { MatrixRain } from "@/components/MatrixRain";
-import bgImage from "@assets/generated_images/dark_cyberpunk_digital_grid_background.png";
 
 export default function Home() {
   return (
@@ -8,7 +7,7 @@ export default function Home() {
       {/* Fixed Background */}
       <div 
         className="fixed inset-0 z-[-1] bg-cover bg-center bg-no-repeat opacity-60"
-        style={{ backgroundImage: `url(${bgImage})` }}
+        style={{ backgroundImage: "url(/images/dark_cyberpunk_digital_grid_background.png)" }}
       />
       
       {/* Matrix Rain Effect */}
