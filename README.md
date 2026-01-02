@@ -62,7 +62,7 @@ Cipher-Web focuses on **privacy, speed, and clean design**, offering client-side
 ---
 
 ## 📂 Project Structure
-
+```bash
 Cipher-Web/
 ├── client/ # Frontend (Vite + React)
 │ ├── public/ # Static assets
@@ -83,7 +83,7 @@ Cipher-Web/
 ├── package.json
 ├── MIT.License
 └── README.md
-
+```
 
 ---
 
