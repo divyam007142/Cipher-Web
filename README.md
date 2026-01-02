@@ -30,13 +30,13 @@ Cipher-Web focuses on **privacy, speed, and clean design**, offering client-side
 
 
 ### 🏠 Home Screen
-![Home Screenshot](client/public/screenshots/home.png)
+![Home Screenshot](public/screenshots/home.png)
 
 ### 🔐 Encryption Interface
-![Encryption Screenshot](client/public/screenshots/encrypt.png)
+![Encryption Screenshot](public/screenshots/encrypt.png)
 
-### 🌌 UI & Effects
-![UI Screenshot](client/public/screenshots/ui.png)
+### 🌌 Decryption Interface
+![Decryption Screenshot](public/screenshots/decrypt.png)
 
 ---
 
